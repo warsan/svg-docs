@@ -130,4 +130,3 @@ We’ve packed this theme with powerful features to help you have awesome docume
 <br>
 
 **Why not start using this theme today?**
-
