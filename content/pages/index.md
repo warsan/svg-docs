@@ -75,7 +75,7 @@ sections:
     subtitle: Необязательный подзаголовок раздела
     col_number: two
     grid_items:
-      - title: Overview
+      - title: Обзор
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
