@@ -85,5 +85,6 @@
             }
         ]
     },
-    "domain": "https://svg-docs-ru.netlify.app"
+    "domain": "https://svg-docs-ru.netlify.app",
+    "favicon": "/images/knopka.png"
 }
