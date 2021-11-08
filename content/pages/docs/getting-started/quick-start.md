@@ -26,7 +26,7 @@ layout: docs
 <h3>Установка</h3>
 Различные методы установки, чтобы начать работу с SVG.js, предпочитаете ли вы менеджеры пакетов, CDN или просто включаете источник JavaScript в свой HTML.
 
-### Bower</h4>
+### Bower
 <pre>bower install svg.js</pre>
 
 ### Node
