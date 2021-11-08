@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: Быстрый старт
 weight: 2
 seo:
   title: Quick Start
