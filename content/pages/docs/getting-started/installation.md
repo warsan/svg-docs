@@ -23,51 +23,33 @@ seo:
 layout: docs
 ---
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
 
-<hr>
-
-## Callouts
-
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
-
-### HTML example
-
-Copy the code and modify these blocks according to your needs.
+## Npm
 
 ```
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
+npm install @svgdotjs/svg.js
 ```
 
+## Yarn
 ```
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
+yarn add @svgdotjs/svg.js
 ```
 
-### Live example
+## CDN.js / jsDelivr
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
+[Скачайте](https://cdnjs.com/libraries/svg.js) последнюю версию с [cdnjs.com](https://cdnjs.com/libraries/svg.js) или прямо с [jsdelivr](https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@latest/dist/svg.min.js)
+
+## Скачать
+
+Вы можете найти все релизы на [странице релизов](https://github.com/svgdotjs/svg.js/releases/).
+
+Последнюю версию можно найти [здесь](https://github.com/svgdotjs/svg.js/releases/latest)
+
+Для наилучшего опыта разработки убедитесь, что исходная карта находится в той же папке, что и библиотека.
 
 <div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
+  <strong>Примечание:</strong> 
+  Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
 <hr>
