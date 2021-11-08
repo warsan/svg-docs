@@ -52,7 +52,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: Г
+      - label: Гал
         url: /docs/getting-started
         style: primary
       - label: Get Started
