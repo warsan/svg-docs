@@ -34,6 +34,7 @@ layout: docs
 
 ### CDN.js
 Возьмите последнюю версию с <a href="https://cdnjs.com/libraries/svg.js" target="_blank">cdnjs.com</a>.
+
 ### Загрузка
 
 Загрузить svg.js можно на странице, посвященной <a href="https://github.com/svgdotjs/svg.js/releases/tag/3.0.12" target="_blank">выпуску версии 3.0.12</a>.<br>
