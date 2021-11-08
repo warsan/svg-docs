@@ -25,7 +25,7 @@ sections:
           - label: За работу
             url: /docs
             style: link
-      - title: Blog
+      - title: Блог
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
