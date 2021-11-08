@@ -34,6 +34,7 @@ layout: docs
 Проект перевода на  <a href="https://github.com/customizer/svg.js-ru" target="_blank">github.com</a>.
 </div>
 
+
 ***
 
 Вот статьи из этого раздела:
