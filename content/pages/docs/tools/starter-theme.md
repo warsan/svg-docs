@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: Стартовая тема
 weight: 1
 seo:
   title: Starter Theme
