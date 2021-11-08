@@ -24,7 +24,8 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Примечание:</strong> Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
+  <strong>Примечание:</strong> 
+  Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
 ## Code Blocks
