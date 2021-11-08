@@ -1,5 +1,5 @@
 ---
-title: Обзор
+title: Обзор примеров
 weight: 1
 seo:
   title: Overview
