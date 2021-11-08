@@ -55,7 +55,7 @@ sections:
       - label: Галерея
         url: /docs/getting-started
         style: primary
-      - label: З работе
+      - label: За работе
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
