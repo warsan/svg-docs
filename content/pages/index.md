@@ -95,7 +95,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: Сотрудни
+    title: Сотрудничество
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
