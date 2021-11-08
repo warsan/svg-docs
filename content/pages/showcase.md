@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: Витрина
 sections:
   - section_id: hero
     type: section_hero
