@@ -32,7 +32,7 @@ layout: docs
 <h4>Node</h4>
 <pre>npm install svg.js</pre>
 
-### CDN.js</h4>
+### CDN.js
 Возьмите последнюю версию с <a href="https://cdnjs.com/libraries/svg.js" target="_blank">cdnjs.com</a>.
 
 ### Загрузка
