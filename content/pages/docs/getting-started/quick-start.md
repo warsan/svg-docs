@@ -29,7 +29,7 @@ layout: docs
 <h4>Bower</h4>
 <pre>bower install svg.js</pre>
 
-Node</h4>
+### Node</h4>
 <pre>npm install svg.js</pre>
 
 ### CDN.js
