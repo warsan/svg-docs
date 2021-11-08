@@ -9,7 +9,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Главна",
+                "label": "Главная",
                 "url": "/",
                 "style": "link",
                 "has_subnav": false
