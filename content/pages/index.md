@@ -98,7 +98,7 @@ sections:
     title: Сотрудничество
     subtitle: Это необязательное описание для блока призыва к действию.
     actions:
-      - label: Get Started
+      - label: За работу
         url: /docs/getting-started/installation
         style: primary
 seo:
