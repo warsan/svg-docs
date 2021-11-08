@@ -131,4 +131,3 @@ We’ve packed this theme with powerful features to help you have awesome docume
 
 **Why not start using this theme today?**
 
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
