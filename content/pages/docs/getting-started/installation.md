@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Установка
 weight: 1
 seo:
   title: Installation
