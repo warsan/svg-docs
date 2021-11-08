@@ -90,7 +90,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /showcase
             style: link
   - section_id: cta
