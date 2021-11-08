@@ -33,7 +33,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "Обзор",
                         "url": "/overview",
                         "style": "link"
                     },
