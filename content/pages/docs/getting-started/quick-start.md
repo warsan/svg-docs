@@ -125,5 +125,4 @@ You can build tables with markdown to help you organize information. To add a ta
 
 ## Start using Libris theme
 
-
 **Why not start using this theme today?**
