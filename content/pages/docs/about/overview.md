@@ -180,5 +180,3 @@ You can build tables with markdown to help you organize information. To add a ta
 </div>
 
 <hr>
-
-
