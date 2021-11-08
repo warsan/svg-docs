@@ -6,8 +6,8 @@ sections:
     title: План работ
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Этот раздел может содержать подзаголовок или теглайн. Рекомендуемая длина составляет
+      от одного до трех предложений, но может быть изменено по вашему желанию.
     actions:
       - label: За работу
         url: /docs
