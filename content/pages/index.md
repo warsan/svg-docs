@@ -3,7 +3,7 @@ title: Главная
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: П
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
