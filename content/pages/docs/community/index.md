@@ -1,5 +1,5 @@
 ---
-title: Где получить поддержку
+title: Где получить поддержк
 excerpt: >-
   We'd love it if you participate in the Libris community. Find out how to get
   connected.
