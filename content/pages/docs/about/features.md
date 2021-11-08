@@ -1,5 +1,5 @@
 ---
-title: С
+title: Свойства
 weight: 2
 seo:
   title: Features
