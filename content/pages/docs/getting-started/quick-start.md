@@ -125,8 +125,5 @@ You can build tables with markdown to help you organize information. To add a ta
 
 ## Start using Libris theme
 
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-<br>
 
 **Why not start using this theme today?**
