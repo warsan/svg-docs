@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: Типография
 weight: 1
 seo:
   title: Typography
