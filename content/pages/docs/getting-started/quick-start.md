@@ -30,7 +30,7 @@ layout: docs
 <pre>bower install svg.js</pre><br>
 
 <h4>Node</h4>
-<pre>npm install svg.js</pre><br>
+<pre>npm install svg.js</pre>
 
 <h4>CDN.js</h4>
 Возьмите последнюю версию с <a href="https://cdnjs.com/libraries/svg.js" target="_blank">cdnjs.com</a>.
