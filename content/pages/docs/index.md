@@ -1,5 +1,5 @@
 ---
-title: Добро пожаловать в Libris
+title: П в Libris
 seo:
   title: Welcome to Libris
   description: This is the documentation page
