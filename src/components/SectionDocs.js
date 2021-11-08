@@ -23,7 +23,7 @@ export default class SectionDocs extends React.Component {
                         </div>
                     )}
                     <div className="grid-item-buttons">
-                        <Link href={withPrefix(docsSectionPageUrl)}>Learn More</Link>
+                        <Link href={withPrefix(docsSectionPageUrl)}>Подробнее</Link>
                     </div>
                 </div>
             </div>
