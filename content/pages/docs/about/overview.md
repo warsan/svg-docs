@@ -156,37 +156,3 @@ var obj = SVG(node)
 
 
 <hr>
-<hr>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
-
-<hr>
-
-## Start using Libris theme
-
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-<br>
-
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
