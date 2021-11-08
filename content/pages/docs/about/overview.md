@@ -174,9 +174,6 @@ You can build tables with markdown to help you organize information. To add a ta
 | Text  | Text  |
 | Text  | Text  |
 
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
+
 
 <hr>
