@@ -3,7 +3,7 @@ title: Showcase
 sections:
   - section_id: hero
     type: section_hero
-    title: Showcase
+    title: Витрина
     image: images/5.jpg
     content: Это необязательный подзаголовок страницы
   - section_id: showcase
