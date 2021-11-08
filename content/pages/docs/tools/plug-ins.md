@@ -1,5 +1,5 @@
 ---
-title: Plug-ins
+title: Плагины
 weight: 2
 seo:
   title: Plug-ins
