@@ -80,7 +80,7 @@ body {
 
 ```
 if (condition) {
-  code to run if condition is true code to run if condition is true code to run if condition is true code to run if condition is true
+  код для запуска, если условие истинно код для запуска, если условие истинно код для запуска, если условие истинно код для запуска, если условие истинно
 } else {
   run some other code instead
 }
