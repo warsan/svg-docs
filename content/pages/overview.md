@@ -14,7 +14,7 @@ sections:
     title: Название блока призыва к действию
     subtitle: Это необязательное описание для блока призыва к действию.
     actions:
-      - label: Get Started
+      - label: Приступить к работе
         url: /docs/getting-started
         style: primary
 seo:
