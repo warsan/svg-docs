@@ -105,7 +105,7 @@ if (condition) {
     </tbody>
     <tfoot>
       <tr>
-        <td>Footer content 1</td>
+        <td>Содержание нижнего колонтитула 1</td>
         <td>Footer content 2</td>
       </tr>
     </tfoot>
