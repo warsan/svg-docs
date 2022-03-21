@@ -73,7 +73,7 @@ a:hover {
 
 ## Вызовы
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow.
+В этой теме доступны два типа выносок: **примечание** и **важное**. Чтобы добавить призыв к действию в документацию, просто добавьте следующий код `html` с классом `important` или `note`. Как в приведенном ниже примере.
 
 ### HTML example
 
