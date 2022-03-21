@@ -1,6 +1,8 @@
 ---
 title: Начало работы
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: >-
+  В этом разделе вы найдете основную информацию о Libris и о том, как его
+  использовать.
 seo:
   title: Getting Started
   description: This is the getting started page
