@@ -94,7 +94,7 @@ if (condition) {
     <thead>
       <tr>
         <th>Содержание заголовка 1</th>
-        <th>Header content 2</th>
+        <th>Содержание заголовка 2</th>
       </tr>
     </thead>
     <tbody>
