@@ -34,7 +34,7 @@ layout: docs
 
 <hr />
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit?
+## Лорема очень морковь, бакалавриат помидора?
 
 Praesent tristique sem nec lacus laoreet laoreet. Phasellus commodo consectetur viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mattis rhoncus lacus, vel maximus eros aliquet sit amet. Suspendisse condimentum non elit ac laoreet. Etiam molestie nulla nec ligula ultricies tempor. Nulla facilisi. Cras egestas accumsan nisi. Praesent elementum vehicula turpis sed imperdiet. Curabitur vel justo vitae tellus egestas auctor convallis vel ante. Mauris rhoncus finibus nulla, id rhoncus sapien hendrerit sed. Nullam malesuada mi at erat maximus, in gravida eros aliquet. Proin in enim nec enim tristique lobortis. Nulla finibus consectetur lectus eu porttitor. Vivamus venenatis, mi sit amet laoreet venenatis, augue enim efficitur justo, nec gravida lectus libero vel augue. Integer accumsan nisi lectus, eget imperdiet sem condimentum ut.
 
