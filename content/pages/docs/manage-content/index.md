@@ -52,7 +52,7 @@ a:hover {
 ```
 </pre>
 
-The rendered output looks like this:
+Отрисованный результат выглядит следующим образом:
 
 ```
 body {
