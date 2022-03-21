@@ -12,7 +12,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Название блока призыва к действию
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Это необязательное описание для блока призыва к действию.
     actions:
       - label: Get Started
         url: /docs/getting-started
