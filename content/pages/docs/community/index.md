@@ -30,7 +30,7 @@ layout: docs
   Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
-**Лорема очень морковь, помидорно-студент-конструктор.** Donec ut nulla laoreet, finibus purus sit amet, ullamcorper felis. Aliquam sagittis consectetur ullamcorper. Ut dapibus ex a nibh euismod tincidunt. Vestibulum quam velit, placerat vel ipsum eget, vulputate aliquet nibh. Cras hendrerit, justo a sagittis pharetra, ante elit imperdiet quam, eget euismod mauris lacus at eros. Sed et est interdum leo ultricies feugiat non non est. Aenean sit amet sollicitudin tellus, at pellentesque massa. Vestibulum dapibus magna quis dui ultrices vestibulum.
+**Лорема очень морковь, помидорно-студент-конструктор.** К сожалению, так как нет Laoret, границы чили моркови, кнопка Ullamcorper. Последние стрелы Tomato Ullamcorper. К белку от разработчиков работоспособности NIBH. Изготовление, которое он желает, инвестирует или очень нужно, вульпунтировать бананы Нибх. Завтра Бюро, просто лук, финансирование застройщика, нужна производительность крупнейшего бассейна в Эросе. Тем не менее, иногда есть ультрафинарий льва ЕС нет. Энея морковь территория, но масса питания. Производственный белок является отличным из баскетбола DUI.
 
 ## Stack Overflow
 
