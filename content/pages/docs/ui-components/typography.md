@@ -44,7 +44,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 ## Цитирование
 
->“How well we communicate is determined not by how well we say things, but how well we are understood.” ― Andrew Grove
+>"То, насколько хорошо мы общаемся, определяется не тем, насколько хорошо мы говорим, а тем, насколько хорошо нас понимают" - Эндрю Гроув.
 
 >“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” ― John Woods
 
