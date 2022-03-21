@@ -69,7 +69,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 ## Code Blocks
 
-Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
+Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
 ```
 <!-- Некоторые примеры кода CSS -->
