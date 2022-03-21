@@ -100,7 +100,7 @@ if (condition) {
     <tbody>
       <tr>
         <td>Содержание тела 1</td>
-        <td>Body content 2</td>
+        <td>Содержание тела 2</td>
       </tr>
     </tbody>
     <tfoot>
