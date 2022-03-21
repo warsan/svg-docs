@@ -1,8 +1,9 @@
 ---
 title: Инструменты
 excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
-  parts of your workflow.
+  Познакомьтесь с некоторыми интересными инструментами, разработанными
+  сообществом Libris, которые помогут автоматизировать некоторые части вашего
+  рабочего процесса.
 seo:
   title: Tools
   description: This is the tools page
