@@ -67,7 +67,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 5. Nulla porta tempus sapien
 
 
-## Code Blocks
+## Блоки кода
 
 Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
