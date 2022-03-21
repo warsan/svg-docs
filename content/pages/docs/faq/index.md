@@ -52,7 +52,7 @@ Curabitur quam neque, pulvinar at sagittis viverra, suscipit sed libero. Sed qui
 
 <hr />
 
-## Integer massa ante, bibendum sed tellus?
+## Целочисленная масса раньше, выпить, но земля?
 
 Nunc fringilla, est vel mattis malesuada, mauris velit tincidunt est, quis fringilla mauris felis ut sapien. Sed id sapien ex. Vivamus elementum et lectus pharetra accumsan. Curabitur viverra ante vitae velit euismod, in commodo dolor sollicitudin. Vivamus sit amet rhoncus dui, auctor malesuada ante. Phasellus lobortis fringilla magna at placerat. Maecenas nulla magna, condimentum porta tempor eu, tristique vitae nibh. Curabitur imperdiet eros quis justo luctus dapibus. Vestibulum eu ultrices felis, et lobortis urna. Aenean mollis tempus risus, at iaculis nisi rhoncus at. Phasellus eget massa pulvinar, dignissim velit aliquet, sollicitudin erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
