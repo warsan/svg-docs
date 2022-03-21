@@ -22,7 +22,7 @@ seo:
 layout: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Лорема очень морковь, помидорно-студент-конструктор. Но разработчики, которые были выровнены. Выберите беременную боль.
 
 ***
 
