@@ -75,7 +75,7 @@ a:hover {
 
 В этой теме доступны два типа выносок: **примечание** и **важное**. Чтобы добавить призыв к действию в документацию, просто добавьте следующий код `html` с классом `important` или `note`. Как в приведенном ниже примере.
 
-### HTML example
+### Пример HTML
 
 Copy the code and modify these blocks according to your needs.
 
