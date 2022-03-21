@@ -46,7 +46,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 >"То, насколько хорошо мы общаемся, определяется не тем, насколько хорошо мы говорим, а тем, насколько хорошо нас понимают" - Эндрю Гроув.
 
->“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” ― John Woods
+>"Всегда пишите код так, как будто парень, который в итоге будет поддерживать ваш код, будет жестоким психопатом, который знает, где вы живете" - Джон Вудс
 
 <hr />
 
