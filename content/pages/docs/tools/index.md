@@ -29,4 +29,4 @@ layout: docs
 
 ***
 
-Here are the articles in this section:
+Вот статьи в этом разделе:
