@@ -11,7 +11,7 @@ module.exports = {
                 watch: isDev
             }
         },
-        // flatten all frontmatter and markdown data
+        // сглаживание всех данных frontmatter и markdown
         ({ data }) => {
             const objects = data.objects.map(object => {
                 if (_.has(object, 'frontmatter')) {
