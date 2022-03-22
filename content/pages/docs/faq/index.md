@@ -1,8 +1,8 @@
 ---
 title: FAQ
 excerpt: >-
-  In this section you'll find commonly asked questions regarding the Libris
-  theme. If you have questions, don’t hesitate to ask us directly.
+  В этом разделе вы найдете часто задаваемые вопросы по теме Libris. Если у вас
+  есть вопросы, не стесняйтесь задавать их нам напрямую.
 seo:
   title: FAQ
   description: This is the faq page
