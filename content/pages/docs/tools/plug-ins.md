@@ -80,7 +80,7 @@ a:hover {
 | Текст  | Текст  |
 </pre>
 
-| Title | Title |
+| Название | Title |
 | ------| ----- |
 | Text  | Text  |
 | Text  | Text  |
