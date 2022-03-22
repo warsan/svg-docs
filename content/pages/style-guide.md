@@ -71,7 +71,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 + Vivamus convallis urna id felis
 + Nulla porta tempus sapien
 
-## Ordered Lists
+## Упорядоченные списки
 
 1. Donec non tortor in arcu mollis feugiat
 2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
