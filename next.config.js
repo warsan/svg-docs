@@ -10,7 +10,7 @@ module.exports = {
         autoPrerender: false
     },
     webpack: (config, { webpack }) => {
-        // Tell webpack to ignore watching content files in the content folder.
+        // Скажите webpack игнорировать просмотр файлов содержимого в папке content.
         // Otherwise webpack receompiles the app and refreshes the whole page.
         // Instead, the src/pages/[...slug].js uses the "withRemoteDataUpdates"
         // function to update the content on the page without refreshing the
