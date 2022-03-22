@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Node
 
-This command installs a package, and any packages that it depends on. If the package has a package-lock or shrinkwrap file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
+Эта команда устанавливает пакет и все пакеты, от которых он зависит. Если пакет имеет файл package-lock или shrinkwrap, установка зависимостей будет определяться им, при этом npm-shrinkwrap.json будет иметь приоритет, если оба файла существуют. См. package-lock.json и npm-shrinkwrap.
 
 Tellus integer feugiat scelerisque varius morbi enim. Mattis ullamcorper velit sed ullamcorper. Risus nullam eget felis eget nunc lobortis mattis. Elementum facilisis leo vel fringilla. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Dignissim convallis aenean et tortor at risus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus. Aliquam sem et tortor consequat id porta nibh venenatis. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Cras sed felis eget velit aliquet sagittis. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum.
 
