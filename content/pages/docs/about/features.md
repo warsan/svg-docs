@@ -93,7 +93,7 @@ There are two types of callouts available in this theme, **important** and **not
 
 | Имя | Требуется | Тип | Описание |
 | ---- | --- | --- | --- |
-| type | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
+| type | Required | `enum` | Тип модели. Должно быть, один из - `page`, `config`, `data`, `object` |
 | label | Required | `string` | The label of the model |
 | description | | `string` | Description of the model. Used by some CMS. |
 | fields | | `list` of `objects` | List of Field Models |
