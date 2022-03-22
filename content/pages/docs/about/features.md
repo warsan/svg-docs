@@ -87,7 +87,7 @@ There are two types of callouts available in this theme, **important** and **not
   This block signifies a general note or tip.
 </div>
 
-## Tables
+## Таблицы
 
 You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
 
