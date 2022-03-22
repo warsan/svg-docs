@@ -29,7 +29,7 @@ layout: docs
 
 ## Блоки кода
 
-Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
+Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
 <pre>
 ```
