@@ -1,6 +1,6 @@
 ---
 title: Руководство по стилю
-subtitle: The style guide provides you with a blueprint of default post and page styles.
+subtitle: Руководство по стилям предоставляет вам чертеж стилей по умолчанию для постов и страниц.
 image: images/5.jpg
 seo:
   title: Theme Style Guide
