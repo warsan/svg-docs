@@ -104,6 +104,6 @@ We’ve packed this theme with powerful features to help you have awesome docume
 
 <br>
 
-**Why not start using this theme today?**
+**Почему бы не начать использовать эту тему уже сегодня?**
 
 <a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
