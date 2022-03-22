@@ -11,7 +11,7 @@ module.exports = {
     },
     webpack: (config, { webpack }) => {
         // Скажите webpack игнорировать просмотр файлов содержимого в папке content.
-        // Otherwise webpack receompiles the app and refreshes the whole page.
+        // В противном случае webpack перекомпилирует приложение и обновит всю страницу.
         // Instead, the src/pages/[...slug].js uses the "withRemoteDataUpdates"
         // function to update the content on the page without refreshing the
         // whole page
