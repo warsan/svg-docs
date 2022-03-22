@@ -83,7 +83,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Code Blocks
+## Блоки кода
 
 Блоки кода либо огораживаются `строками с тремя обратными знаками`, либо отступают на четыре пробела.
 
