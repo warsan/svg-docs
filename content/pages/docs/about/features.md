@@ -72,7 +72,7 @@ a:hover {
 
 ## Вызовы
 
-There are two types of callouts available in this theme, **important** and **note**.
+В этой теме доступны два типа выносок: **важно** и **примечание**.
 
 <div class="important">
   <strong>Important:</strong> 
