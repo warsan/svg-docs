@@ -27,7 +27,7 @@ layout: docs
   <strong>Примечание:</strong> Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
-## Code Blocks
+## Блоки кода
 
 Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
 
