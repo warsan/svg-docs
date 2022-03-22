@@ -22,7 +22,7 @@ import _ from 'lodash';
  * ]
  *
  *
- * @param {Array} pages Array of page objects. All pages must have '__metadata.urlPath' field.
+ * @param {Array} pages Массив объектов страниц. Все страницы должны иметь поле '__metadata.urlPath'.
  * @param {string} urlPath The url path to filter pages by
  * @return {Array}
  */
