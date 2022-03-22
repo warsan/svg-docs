@@ -14,7 +14,7 @@ export default class MyDocument extends Document {
         return this.props.helmet.htmlAttributes.toComponent();
     }
 
-    // should render on <body>
+    // должна быть визуализирована на <body>
     get helmetBodyAttrComponents() {
         return this.props.helmet.bodyAttributes.toComponent();
     }
