@@ -138,6 +138,6 @@ window.$docsify = {
   </table>
 </div>
 
-<div class="note"><strong>Примечание:</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.</div>
+<div class="note"><strong>Примечание:</strong> Обе функции, которые вы использовали выше, являются частью API Document Object Model (DOM), который позволяет манипулировать документами.</div>
 
 <div class="important"><strong>Important:</strong> In this article, try entering the example code lines into your JavaScript console to see what happens. For more details on JavaScript consoles, see Discover browser developer tools.</div>
