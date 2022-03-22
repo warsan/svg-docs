@@ -1,8 +1,8 @@
 ---
 title: Адреса поддержки
 excerpt: >-
-  We'd love it if you participate in the Libris community. Find out how to get
-  connected.
+  Мы будем рады, если вы примете участие в работе сообщества Libris. Узнайте,
+  как подключиться.
 seo:
   title: Where To Get Support
   description: This is the community page
