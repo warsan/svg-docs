@@ -106,7 +106,7 @@ a:hover {
 </div>
 
 <div class="note">
-  <strong>Note:</strong> 
+  <strong>Примечание:</strong> 
   This is a "Note" callout block of text. 
   This block signifies a general note.
 </div>
