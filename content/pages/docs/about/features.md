@@ -91,7 +91,7 @@ There are two types of callouts available in this theme, **important** and **not
 
 Вы можете создавать таблицы с помощью markdown, чтобы помочь вам организовать информацию. Чтобы добавить таблицу, используйте три или более дефиса (---) для создания заголовка каждой колонки, а также используйте трубы (|) для разделения каждой колонки, как в примере ниже.
 
-| Имя | Required | Type | Description |
+| Имя | Требуется | Type | Description |
 | ---- | --- | --- | --- |
 | type | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
 | label | Required | `string` | The label of the model |
