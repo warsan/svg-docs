@@ -101,7 +101,7 @@ window.$docsify = {
   // Пользовательское имя файла
   coverpage: 'cover.md',
 
-  // mutiple covers
+  // многослойные покрытия
   coverpage: ['/', '/zh-cn/'],
 
   // mutiple covers and custom file name
