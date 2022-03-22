@@ -57,7 +57,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
+>Творчество - это разрешение себе совершать ошибки. Дизайн - это знание того, какие из них оставить. - Скотт Адамс
 
 Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
