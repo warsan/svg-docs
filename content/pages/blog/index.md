@@ -1,6 +1,6 @@
 ---
 title: Блог
-subtitle: This is an optional subtitle for the blog page
+subtitle: Это необязательный подзаголовок для страницы блога
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
