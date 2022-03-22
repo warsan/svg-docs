@@ -1,7 +1,7 @@
 import classnames from 'classnames';
 
-// A simple wrapper around classNames to return null, if no classes were generated
-// Otherwise, original classNames returns empty string which causes class="" to be generated
+// Простая обертка вокруг classNames для возврата null, если классы не были созданы
+// Иначе исходный classNames возвращает пустую строку, что вызывает class="" генерироваться
 export default function classNames(...args) {
     return classnames.call(this, ...args) || null;
 }
