@@ -27,7 +27,7 @@ export default class MyDocument extends Document {
     }
 
     render() {
-        // if you don't like Helmet but you still want to set properties on body use this
+        // if you don't like Helmet but you still want to set properties on body use this const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
