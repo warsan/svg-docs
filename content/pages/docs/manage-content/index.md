@@ -26,7 +26,7 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Примечание:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  <strong>Примечание:</strong> Это демонстрационный контент, предназначенный только для демонстрации. Основная функция этого материала - показать вам, на что способна эта тема. Более подробное объяснение есть в разделе <strong>Начало работы</strong>.
 </div>
 
 ## Code Blocks
