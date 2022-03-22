@@ -12,7 +12,7 @@ module.exports = {
     webpack: (config, { webpack }) => {
         // Скажите webpack игнорировать просмотр файлов содержимого в папке content.
         // В противном случае webpack перекомпилирует приложение и обновит всю страницу.
-        // Instead, the src/pages/[...slug].js uses the "withRemoteDataUpdates" function to update the content on the page without refreshing the whole page
+        // Вместо этого в src/pages/[...slug].js используется функция "withRemoteDataUpdates". функция для обновления содержимого страницы без обновления всей страницы
         config.plugins.push(new webpack.WatchIgnorePlugin([[/\/content\//]]));
         return config;
     }
