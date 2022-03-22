@@ -1,8 +1,8 @@
 import _ from 'lodash';
 
 /**
- * Get all the pages located under the provided `urlPath`, not including the index page. 
- * I.e.: All pages having their URLs start with `urlPath` excluding the page having its URL equal to `urlPath`.
+ * Получить все страницы, расположенные по указанному `urlPath`, не включая индексную страницу. 
+ * Т.е: Все страницы, URL которых начинается с `urlPath`, исключая страницу, URL которой равен `urlPath`.
  *
  * @example
  * pages => [
