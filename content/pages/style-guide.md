@@ -112,7 +112,7 @@ window.$docsify = {
 };
 ```
 
-## Tables
+## Таблицы
 
 <div class="responsive-table">
   <table>
