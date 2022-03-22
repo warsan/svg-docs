@@ -5,7 +5,8 @@ sections:
     type: section_hero
     title: Обзор контента
     image: images/5.jpg
-    content: An optional subtitle
+    content: |
+      Необязательный субтитр
   - section_id: docs-overview
     type: section_docs
     col_number: three
