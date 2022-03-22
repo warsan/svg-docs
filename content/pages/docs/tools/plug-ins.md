@@ -76,7 +76,7 @@ a:hover {
 <pre>
 | Название | Название |
 | ------| ----- |
-| Text  | Text  |
+| Текст  | Text  |
 | Text  | Text  |
 </pre>
 
