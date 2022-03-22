@@ -23,7 +23,7 @@ import _ from 'lodash';
  *
  *
  * @param {Array} pages Массив объектов страниц. Все страницы должны иметь поле '__metadata.urlPath'.
- * @param {string} urlPath The url path to filter pages by
+ * @param {string} urlPath url-путь для фильтрации страниц по
  * @return {Array}
  */
 export default function getPages(pages, urlPath) {
