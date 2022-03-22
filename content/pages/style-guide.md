@@ -79,7 +79,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 4. Vivamus convallis urna id felis
 5. Nulla porta tempus sapien
 
-## Video Embeds
+## Видео вставки
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
