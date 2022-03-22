@@ -95,7 +95,7 @@ There are two types of callouts available in this theme, **important** and **not
 | ---- | --- | --- | --- |
 | type | Required | `enum` | Тип модели. Должно быть, один из - `page`, `config`, `data`, `object` |
 | label | Required | `string` | Ярлык модели |
-| description | | `string` | Описание модели. Used by some CMS. |
+| description | | `string` | Описание модели. Используется некоторыми CMS. |
 | fields | | `list` of `objects` | List of Field Models |
 
 ## Начните использовать тему Libris
