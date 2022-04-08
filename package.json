@@ -1,6 +1,6 @@
 {
-  "name": "diy-nextjs",
-  "description": "A Stackbit DIY theme built with Next.js",
+  "name": "svg-docs",
+  "description": "Тема Stackbit, построенная с помощью Next.js",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
