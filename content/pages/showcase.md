@@ -13,22 +13,22 @@ sections:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/6.jpg
-        content: A portfolio theme for Unibit
+        content: Тема портфолио для Unibit
       - title: Свежак
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
-        content: A personal theme for Unibit
+        content: Личная тема для Unibit
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+        content: Минимальная тема для блогов Unibit
       - title: Амперсанд
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        content: Тема для блогов, вдохновленная медиумом, для Unibit
 seo:
   title: Showcase
-  description: This is the showcase page
+  description: Это страница витрины
   extra:
     - name: 'og:type'
       value: website
@@ -37,7 +37,7 @@ seo:
       value: Showcase
       keyName: property
     - name: 'og:description'
-      value: This is the showcase page
+      value: Это страница витрины
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -48,9 +48,10 @@ seo:
     - name: 'twitter:title'
       value: Showcase
     - name: 'twitter:description'
-      value: This is the showcase page
+      value: Это страница витрины
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
 layout: advanced
 ---
+
