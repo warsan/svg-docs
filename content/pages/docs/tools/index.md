@@ -6,7 +6,7 @@ excerpt: >-
   рабочего процесса.
 seo:
   title: Tools
-  description: This is the tools page
+  description: Это страница инструментов
   extra:
     - name: 'og:type'
       value: website
@@ -15,14 +15,14 @@ seo:
       value: Tools
       keyName: property
     - name: 'og:description'
-      value: This is the tools page
+      value: Это страница инструментов
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Tools
     - name: 'twitter:description'
-      value: This is the tools page
+      value: Это страница инструментов
 layout: docs
 ---
 
@@ -31,3 +31,4 @@ layout: docs
 ***
 
 Вот статьи из этого раздела:
+
