@@ -4,7 +4,7 @@ subtitle: Руководство по стилям предоставляет в
 image: images/5.jpg
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Ссылка на предлагаемые типографские обработки и стили для вашего контента
   extra:
     - name: 'og:type'
       value: website
@@ -14,8 +14,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Ссылка на предлагаемые типографские обработки и стили для вашего контента
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -27,8 +26,7 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Ссылка на предлагаемые типографские обработки и стили для вашего контента
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
