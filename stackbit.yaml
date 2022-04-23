@@ -39,24 +39,24 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-          The base URL of this site. Useful for sites hosted under specific
-          path, e.g.: https://www.example.com/my-site/
+          Базовый URL-адрес этого сайта. Полезно для сайтов, размещенных по определенному пути, например: 
+          https://www.example.com/my-site/
         required: true
         hidden: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
+          Домен вашего сайта, включая протокол, например.
           https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: Квадратный значок, представляющий ваш веб-сайт
       - type: enum
         name: palette
         label: Color Palette
-        description: The color palette of the site
+        description: Цветовая палитра сайта
         options:
           - blue
           - green
@@ -83,30 +83,29 @@ models:
       - type: string
         name: title
         label: Header Title
-        description: The title displayed in the header if no logo image added
+        description: Текст, отображаемый в заголовке, если не добавлено изображение логотипа
       - type: image
         name: logo_img
         label: Logo
-        description: The logo image displayed in the header
+        description: Изображение логотипа, отображаемое в заголовке
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: The alt text of the logo image
+        description: Текст alt изображения логотипа
       - type: string
         name: url
         label: Header Title (Logo) URL
         description: >-
-          The URL of the header title (logo). Useful if you want the header
-          title (logo) link to another URL, rather than the home page.
+          URL-адрес заголовка (логотипа). Пригодится, если вы хотите, чтобы текст заголовка (логотип) ссылался на другой URL, а не на главную страницу.
       - type: boolean
         name: has_nav
         label: Enable Navigation Menu
-        description: Display the navigation menu bar in the header
+        description: Отображение панели навигационного меню в заголовке
         default: true
       - type: list
         name: nav_links
         label: Navigation Links
-        description: List of navigation links
+        description: Список навигационных ссылок
         items:
           type: model
           models:
@@ -119,11 +118,11 @@ models:
       - type: string
         name: content
         label: Footer Content
-        description: The copyright text displayed in the footer
+        description: Текст авторского права, отображаемый в нижнем колонтитуле
       - type: list
         name: links
         label: Links
-        description: List of links in the footer
+        description: Список ссылок в нижнем колонтитуле
         items:
           type: model
           models:
@@ -131,12 +130,12 @@ models:
       - type: boolean
         name: has_social
         label: Enable Social Links
-        description: Display social links in the footer
+        description: Отображение социальных ссылок в нижнем колонтитуле
         default: true
       - type: list
         name: social_links
         label: Social Links
-        description: List of social links in the footer
+        description: Список социальных ссылок в нижнем колонтитуле
         items:
           type: model
           models:
@@ -150,18 +149,17 @@ models:
         name: root_docs_path
         label: Root Documentation URL Path
         description: >-
-          The URL path under which the documentation pages will be generated.
-          For example, value "/" will place all documentation pages at the site
-          root, while value "/docs" will place all documentation pages under the
-          "/docs" path.
+          Путь URL, по которому будут генерироваться страницы документации.
+          Например, значение "/" разместит все страницы документации на сайте
+          root, в то время как значение "/docs" поместит все страницы документации под
+          "/docs" путь.
         default: /docs
         required: true
       - type: list
         name: sections
         label: Sections
         description: >-
-          The main sections of the documentation. Every item must be the URL
-          slug representing the section.
+          Основные разделы документации. Каждый элемент должен быть URL slug, представляющим раздел.
         items:
           type: string
   docs:
@@ -175,21 +173,21 @@ models:
         name: title
         label: Title
         description: >-
-          The title of the page, used both as a page title and as a navigation
-          menu title
+          Заголовок страницы, используемый как в качестве заголовка страницы, 
+          так и в качестве заголовка навигационного меню
         required: true
       - type: number
         name: weight
         label: Weight
         description: >-
-          The navigation order of the documentation page. This value is ignored
-          for parent section pages.
+          Порядок навигации по странице документации. 
+          Это значение игнорируется для страниц родительского раздела.
       - type: string
         name: excerpt
         label: Excerpt
         description: >-
-          Short description of the documentation section. Displayed in
-          documentation overview section.
+          Краткое описание раздела документации. 
+          Отображается в разделе "Обзор документации".
       - type: model
         name: seo
         models:
@@ -203,12 +201,12 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page.
+        description: Название страницы.
         required: true
       - type: list
         name: sections
         label: Sections
-        description: Page sections
+        description: Разделы страницы
         items:
           type: model
           models:
@@ -233,20 +231,20 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page
+        description: Заголовок страницы
         required: true
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the page title
+        description: Текст, отображаемый сразу под заголовком страницы
       - type: image
         name: image
         label: Background Image
-        description: The image shown in the background of the page header
+        description: Изображение, отображаемое на фоне заголовка страницы
       - type: boolean
         name: has_more_link
         label: Show read more link
-        description: Display the read more link in the post feed
+        description: Отображение ссылки "Читать дальше" в ленте сообщений
         default: true
       - type: string
         name: more_link_text
@@ -264,16 +262,16 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page
+        description: Заголовок страницы
         required: true
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the page title
+        description: Текст, отображаемый сразу под заголовком страницы
       - type: image
         name: image
         label: Background Image
-        description: The image shown in the background of the page header
+        description: Изображение, отображаемое на фоне заголовка страницы
       - type: model
         name: seo
         models:
@@ -288,12 +286,12 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the post
+        description: Заголовок сообщения
         required: true
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the post title
+        description: Текст, отображаемый сразу под заголовком сообщения
       - type: date
         name: date
         label: Date
@@ -301,19 +299,19 @@ models:
       - type: image
         name: thumb_image
         label: Image (blog feed)
-        description: The image shown in the blog feed
+        description: Изображение, показанное в ленте блога
       - type: string
         name: thumb_image_alt
         label: Image alt text (blog feed)
-        description: The alt text of the blog feed image
+        description: Текст alt изображения в ленте блога
       - type: image
         name: image
         label: Background Image (single post)
-        description: The image shown in the background of the single post header
+        description: Изображение, отображаемое на заднем плане заголовка отдельного поста
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed
+        description: Выдержка из сообщения, отображаемая в ленте блога
       - type: model
         name: seo
         models:
@@ -326,11 +324,11 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the section.
+        description: Название раздела.
       - type: string
         name: section_id
         label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
+        description: 'Уникальный идентификатор раздела, не должен содержать пробелы'
   section_content:
     type: object
     label: Content Section
@@ -340,15 +338,15 @@ models:
       - type: image
         name: image
         label: Image
-        description: The image of the section
+        description: Изображение участка
       - type: string
         name: image_alt
         label: Image Alt Text
-        description: The alt text of the section image
+        description: Текст alt изображения раздела
       - type: enum
         name: image_position
         label: Image Position
-        description: The position of the secton image
+        description: Положение сектонного изображения
         options:
           - left
           - right
@@ -356,7 +354,7 @@ models:
       - type: markdown
         name: content
         label: Content
-        description: The text content of the section
+        description: Текстовое содержание раздела
       - type: list
         name: actions
         label: Action Buttons
@@ -390,11 +388,11 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-        description: The subtitle of the section
+        description: Подзаголовок раздела
       - type: enum
         name: col_number
         label: Columns
-        description: The number of documentation sections in a row
+        description: Количество разделов документации в строке
         options:
           - two
           - three
@@ -409,11 +407,11 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-        description: The subtitle of the section
+        description: Подзаголовок раздела
       - type: enum
         name: col_number
         label: Columns
-        description: The number of grid items in a row
+        description: Количество элементов сетки в строке
         options:
           - two
           - three
@@ -435,11 +433,11 @@ models:
       - type: image
         name: image
         label: Image
-        description: The image shown in the background of the section
+        description: Изображение, показанное на заднем плане раздела
       - type: markdown
         name: content
         label: Content
-        description: The text content of the section
+        description: Текстовое содержание раздела
       - type: list
         name: actions
         label: Action Buttons
@@ -455,23 +453,23 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the item
+        description: Название предмета
       - type: string
         name: title_url
         label: Title URL
-        description: The URL of the item title
+        description: URL-адрес заголовка элемента
       - type: image
         name: image
         label: Image
-        description: The image of the item
+        description: Изображение предмета
       - type: string
         name: image_alt
         label: Image Alt Text
-        description: The alt text of the item image
+        description: Текст alt изображения элемента
       - type: markdown
         name: content
         label: Content
-        description: The text content of the item
+        description: Текстовое содержимое элемента
       - type: list
         name: actions
         label: Action Buttons
@@ -525,7 +523,7 @@ models:
         name: no_follow
         label: No follow
         default: false
-        description: Add rel="nofollow" attribute to the link
+        description: Добавить rel="nofollow" атрибут ссылки
   action_menu:
     type: object
     label: Parent Action
@@ -550,17 +548,17 @@ models:
       - type: string
         name: title
         label: Title
-        description: The page title that goes into the <title> tag
+        description: Заголовок страницы, который помещается в тег <title>.
         default: ''
       - type: string
         name: description
         label: Description
-        description: The page description that goes into the <meta name="description"> tag
+        description: Описание страницы, которое помещается в тег <meta name="description">.
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: The items that go into the <meta name="robots"> tag
+        description: Элементы, которые входят в тег <meta name="robots">.
         items:
           type: enum
           options:
@@ -576,8 +574,7 @@ models:
         name: extra
         label: Extra
         description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
+          Дополнительное определение для специфических метатегов, таких как open-graph, twitter и т.д.
         items:
           type: object
           labelField: name
