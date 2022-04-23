@@ -18,26 +18,21 @@ sections:
     grid_items:
       - title: Документация
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Здесь был "лорем ипсум".
         actions:
           - label: За работу
             url: /docs
             style: link
       - title: Блог
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Здесь был "лорем ипсум".
         actions:
           - label: Обзор постов
             url: /blog
             style: link
       - title: Гид по стилю
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Здесь был "лорем ипсум".
         actions:
           - label: Подробнее
             url: /style-guide
@@ -48,9 +43,7 @@ sections:
     image_position: left
     title: Секция с картинками
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Здесь был "лорем ипсум".
     actions:
       - label: Галерея
         url: /docs/getting-started
@@ -62,9 +55,7 @@ sections:
     type: section_content
     title: Секция без картинки
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Здесь был "лорем ипсум".
     actions:
       - label: За работу
         url: /docs/getting-started/installation
@@ -77,18 +68,14 @@ sections:
     grid_items:
       - title: Обзор макетов
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Здесь был "лорем ипсум".
         actions:
           - label: Подробнее
             url: /overview
             style: link
       - title: Витрина
         content: >-
-          До коробки хочет, но берет коробку. Не за пределами страха. Нет
-          от самого большого МИ. Каждая терапия сейчас, производительность производительности дайвинга;
-          разработчики как регион. Live Rhoncus Mattis Varius.
+          До коробки хочет, но берет коробку. Не за пределами страха.  Здесь был "лорем ипсум".
         actions:
           - label: Подробнее
             url: /showcase
@@ -103,7 +90,7 @@ sections:
         style: primary
 seo:
   title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  description: Предварительный просмотр темы Libris
   extra:
     - name: 'og:type'
       value: website
@@ -112,7 +99,7 @@ seo:
       value: Stackbit Libris Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Предварительный просмотр темы Libris
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -123,9 +110,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Libris Theme
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Предварительный просмотр темы Libris
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
 layout: advanced
 ---
+
