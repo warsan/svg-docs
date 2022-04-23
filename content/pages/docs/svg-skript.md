@@ -6,7 +6,7 @@ excerpt: >-
   использовать её для вашего проекта.
 seo:
   title: About
-  description: This is the about page
+  description: Это страница "О компании"
   extra:
     - name: 'og:type'
       value: website
@@ -15,14 +15,14 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Это страница "О компании"
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: Это страница "О компании"
 layout: docs
 ---
 
