@@ -12,15 +12,15 @@ sections:
     col_number: three
   - section_id: cta
     type: section_cta
-    title: Название блока призыва к действию
-    subtitle: Это необязательное описание для блока призыва к действию.
+    title: Сотрудничество
+    subtitle: Это необязательное описание для Сотрудничества.
     actions:
       - label: Приступить к работе
         url: /docs/getting-started
         style: primary
 seo:
   title: Overview
-  description: This is the overview page
+  description: Это страница обзора
   extra:
     - name: 'og:type'
       value: website
@@ -29,7 +29,7 @@ seo:
       value: Overview
       keyName: property
     - name: 'og:description'
-      value: This is the overview page
+      value: Это страница обзора
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -40,9 +40,10 @@ seo:
     - name: 'twitter:title'
       value: Overview
     - name: 'twitter:description'
-      value: This is the overview page
+      value: Это страница обзора
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
 layout: advanced
 ---
+
